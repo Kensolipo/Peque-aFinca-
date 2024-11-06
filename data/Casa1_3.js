@@ -1,0 +1,1 @@
+var json_Casa1_3 = {"type":"FeatureCollection","name":"Casa1_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nombre":"Casa Ensueño"},"geometry":{"type":"Point","coordinates":[-85.849454741798624,10.267586666239701]}}]}

@@ -1,0 +1,1 @@
+var json_Establo_4 = {"type":"FeatureCollection","name":"Establo_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2","Nombre":"Establo"},"geometry":{"type":"Point","coordinates":[-85.847299599874688,10.267869790506024]}}]}

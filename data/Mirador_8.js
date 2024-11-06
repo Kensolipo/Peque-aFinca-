@@ -1,0 +1,1 @@
+var json_Mirador_8 = {"type":"FeatureCollection","name":"Mirador_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nombre":"Mirador"},"geometry":{"type":"Point","coordinates":[-85.848847220805567,10.271804086062449]}}]}
